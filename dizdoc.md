@@ -20,9 +20,10 @@
 Пытаемся привлечь игроков к проблематике жизни бездомных.
 
 Референсы:
-Long live the queen 
-GTA2
-hotline miami
+Long live the queen	    
+GTA2	
+hotline miami	
+
 
 ###USP:
 Возможность побыть бомжом
